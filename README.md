@@ -124,8 +124,13 @@ Consistency creates mastery.**
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayourbukhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff"/>
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayourbukhari&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayourbukhari&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayourbukhari&theme=tokyonight&hide_border=true&background=0B0F1A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
@@ -250,9 +255,13 @@ Interactive 3D portfolio built using modern web technologies.
 
 # 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayourbukhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F1A"/>
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayourbukhari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F1A"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayourbukhari&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayourbukhari&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 <br><br>
 
